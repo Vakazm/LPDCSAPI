@@ -1,0 +1,6 @@
+@LPDCSAPI_HostAddress = http://localhost:5103
+
+GET {{LPDCSAPI_HostAddress}}/dealers/
+Accept: application/json
+
+###
