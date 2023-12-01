@@ -2,7 +2,7 @@
 
 The following project is an implementation of Leon Programming Developer Car Stock API, named LPDCSAPI as an abbreviature of the task name.
 The solution is written in Visual Studio using ASP .NET Core and Swagger.
-The source code is available at [GitHub](https://github.com/Vakazm/LPDCSAPI), and the executable version can be found on [DockerHub](https://hub.docker.com/repository/docker/vakazm/lpdcsapi/general).
+The source code is available on [GitHub](https://github.com/Vakazm/LPDCSAPI), and the executable version can be found on [DockerHub](https://hub.docker.com/repository/docker/vakazm/lpdcsapi/general).
 
 ## Running in Docker
 
